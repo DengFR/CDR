@@ -12,7 +12,7 @@
 - 5.image (crack detection algorithm, image processing).  
   Writer : [@BenzhangQiu](https://github.com/BenzhangQiu).
   ----------------------------------------------------
-  **----------------------------------------------------**
+  ----------------------------------------------------
   ## How to use this repository：##
   
   
