@@ -2,9 +2,7 @@
 ----------------------------------------------------
 This repository includes five branch:
 - 1.master (include industrial robot latex file). 
-```markdown
-  <font color=#ff0000>warning: Do not commit your change to master directly.</font>
-```
+  **warning: Do not commit your change to master directly.**
 - 2.overview (introduction, related work, overview of system).  
   Writer : [@GeoJacky](https://github.com/GeoJacky), [lcbowling](https://github.com/lcbowling).  
 - 3.mechanical (mechanical design of 'Jupiter', circuit design and control).  
@@ -14,6 +12,13 @@ This repository includes five branch:
 - 5.image (crack detection algorithm, image processing).  
   Writer : [@BenzhangQiu](https://github.com/BenzhangQiu).
 ---------------------------------------------------
-  How to use this repository
-  
+How to use this repository:  
+1. set up environment:  
+   -step 1: Download [Git](https://git-scm.com/download/win) and [texlive2018](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/), install it.
+   -step 2: check your environment variables(Default: C:\Program Files\Git\cmd\git.exe, C:\texlive\2018\bin\win32).  
+   -step 3: Download [GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32) and [Visual Studio Code](https://code.visualstudio.com/), install it.  
+   -step 4: open VScode and install the following plugin: Latex Workshop, Latex Language support.  
+   -step 5: open GitHub Desktop and clone the repository to the locol, make your changes and commit to corresponding branch.  
+---------------------------------------------------
+
   
