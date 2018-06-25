@@ -1,6 +1,6 @@
 # Crack_Detection_robot
 ----------------------------------------------------
-## This repository includes five branch: ##
+This repository includes five branch:
 - 1.master (include industrial robot latex file).  
   warning: Do not commit your change to master directly.
 - 2.overview (introduction, related work, overview of system).  
@@ -11,8 +11,7 @@
   Writer : [@ManciuCen](https://github.com/ManciuCen).
 - 5.image (crack detection algorithm, image processing).  
   Writer : [@ManciuCen](https://github.com/ManciuCen).
-  ----------------------------------------------------
-  ----------------------------------------------------
+
   How to use this repository
   
   
