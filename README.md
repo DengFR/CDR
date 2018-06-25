@@ -13,6 +13,6 @@
   Writer : [@BenzhangQiu](https://github.com/BenzhangQiu).
   ----------------------------------------------------
   ----------------------------------------------------
-  ## How to use this repository：##
+  How to use this repository
   
   
