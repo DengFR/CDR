@@ -2,7 +2,7 @@
 ----------------------------------------------------
 This repository includes five branch:
 - 1.master (include industrial robot latex file).  
-  warning: Do not commit your change to master directly.
+  <font color=#ff0000>warning: Do not commit your change to master directly.</font>
 - 2.overview (introduction, related work, overview of system).  
   Writer : [@GeoJacky](https://github.com/GeoJacky), [lcbowling](https://github.com/lcbowling).  
 - 3.mechanical (mechanical design of 'Jupiter', circuit design and control).  
