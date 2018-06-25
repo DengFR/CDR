@@ -10,8 +10,8 @@ This repository includes five branch:
 - 4.planning (navigation and path planning, obstacle avoidance).  
   Writer : [@ManciuCen](https://github.com/ManciuCen).
 - 5.image (crack detection algorithm, image processing).  
-  Writer : [@ManciuCen](https://github.com/ManciuCen).
-
+  Writer : [@BenzhangQiu](https://github.com/BenzhangQiu).
+---------------------------------------------------
   How to use this repository
   
   
