@@ -14,11 +14,12 @@ This repository includes five branch:
 ---------------------------------------------------
 How to use this repository:  
 1. set up environment:  
-   -step 1: Download [Git](https://git-scm.com/download/win) and [texlive2018](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/), install it.
-   -step 2: check your environment variables(Default: C:\Program Files\Git\cmd\git.exe, C:\texlive\2018\bin\win32).  
-   -step 3: Download [GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32) and [Visual Studio Code](https://code.visualstudio.com/), install it.  
-   -step 4: open VScode and install the following plugin: Latex Workshop, Latex Language support.  
-   -step 5: open GitHub Desktop and clone the repository to the locol, make your changes and commit to corresponding branch.  
+   - step 1: Download [Git](https://git-scm.com/download/win) and [texlive2018](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/), install it.
+   - step 2: check your environment variables.  
+   (Default: C:\Program Files\Git\cmd\git.exe, C:\texlive\2018\bin\win32).  
+   - step 3: Download [GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32) and [Visual Studio Code](https://code.visualstudio.com/), install it.  
+   - step 4: open VScode and install the following plugin: Latex Workshop, Latex Language support.  
+   - step 5: open GitHub Desktop and clone the repository to the locol, make your changes and commit to corresponding branch.  
 ---------------------------------------------------
 
   
