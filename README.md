@@ -10,7 +10,7 @@
 - 4.planning (navigation and path planning, obstacle avoidance).  
   Writer : [@ManciuCen](https://github.com/ManciuCen).
 - 5.image (crack detection algorithm, image processing).  
-  Writer : [@BenzhangQiu](https://github.com/BenzhangQiu).
+  Writer : [@ManciuCen](https://github.com/ManciuCen).
   ----------------------------------------------------
   ----------------------------------------------------
   How to use this repository
