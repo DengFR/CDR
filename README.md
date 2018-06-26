@@ -27,13 +27,14 @@ How to use this repository:
    - step 3 : commit to corresponding branch.  
 ---------------------------------------------------
 Industrial Robot Manuscript requirements:  
-- Article Length : 2000-4000 words
-- Abstract :  
+- Article Length : **2000-4000** words
+- Abstract(maximum is **250** words) :  
   - Purpose (mandatory)
-Design/methodology/approach (mandatory)
-Findings (mandatory)
-Research limitations/implications (if applicable)
-Practical implications (if applicable)
-Social implications (if applicable)
-Originality/value (mandatory)
+  - Design/methodology/approach (mandatory)
+  - Findings (mandatory)
+  - Research limitations/implications (if applicable)
+  - Practical implications (if applicable)
+  - Social implications (if applicable)
+  - Originality/value (mandatory)
+- Article Classification : **Research paper**(This category covers papers which report on any type of research undertaken by the author(s). The research may involve the construction or testing of a model or framework, action research, testing of data, market research or surveys, empirical, scientific or clinical research.)
   
