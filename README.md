@@ -3,7 +3,7 @@
 This repository includes five branch:
 - 1.master (include industrial robot latex file).  
 ```diff
-  + **warning: Do not commit your change to master directly.**
+- warning: Do not commit your change to master directly.
 ```
 - 2.overview (introduction, related work, overview of system).  
   Writer : [@GeoJacky](https://github.com/GeoJacky), [@lcbowling](https://github.com/lcbowling).  
