@@ -14,20 +14,26 @@ This repository includes five branch:
 ---------------------------------------------------
 How to use this repository:  
 1. set up environment:  
-   - step 1: Download [Git](https://git-scm.com/download/win) and [texlive2018](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/), install it.
-   - step 2: check your environment variables.  
+   - step 1 : Download [Git](https://git-scm.com/download/win) and [texlive2018](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/), install it.
+   - step 2 : check your environment variables.  
    (Default: C:\Program Files\Git\cmd\git.exe, C:\texlive\2018\bin\win32).  
-   - step 3: Download [GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32) and [Visual Studio Code](https://code.visualstudio.com/), install it.  
-   - step 4: open VScode and install the following plugin: Latex Workshop, Latex Language support.  
-   - step 5: open GitHub Desktop and clone the repository to the locol, make your changes and commit to corresponding branch.  
+   - step 3 : Download [GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32) and [Visual Studio Code](https://code.visualstudio.com/), install it.  
+   - step 4 : open VScode and install the following plugin: Latex Workshop, Latex Language support.  
+   - step 5 : open GitHub Desktop and clone the repository to the locol, make your changes and commit to corresponding branch.  
 
 2. use latex template:
-   - step 1: Open file folder(The repository) on VScode, choose the .tex file and open it.  
-   - step 2: use *ctrl+alt+b* to compiled the code, use *ctrl+alt+v* to preview thd pdf file, use *ctrl+alt+left-click* to reverse positioning to code from pdf file.  
-   - step 3: commit to corresponding branch.  
+   - step 1 : Open file folder(The repository) on VScode, choose the .tex file and open it.  
+   - step 2 : use *ctrl+alt+b* to compiled the code, use *ctrl+alt+v* to preview thd pdf file, use *ctrl+alt+left-click* to reverse positioning to code from pdf file.  
+   - step 3 : commit to corresponding branch.  
 ---------------------------------------------------
-```diff
-+ 鸟宿池边树，僧敲月下门
-- 鸟宿池边树，僧推月下门
-```
+Industrial Robot Manuscript requirements:  
+- Article Length : 2000-4000 words
+- Abstract :  
+Purpose (mandatory)
+Design/methodology/approach (mandatory)
+Findings (mandatory)
+Research limitations/implications (if applicable)
+Practical implications (if applicable)
+Social implications (if applicable)
+Originality/value (mandatory)
   
