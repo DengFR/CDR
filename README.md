@@ -2,9 +2,7 @@
 ----------------------------------------------------
 This repository includes five branch:
 - 1.master (include industrial robot latex file).  
-```diff
-- warning: Do not commit your change to master directly.
-```
+  **warning: Do not commit your change to master directly.**
 - 2.overview (introduction, related work, overview of system).  
   Writer : [@GeoJacky](https://github.com/GeoJacky), [@lcbowling](https://github.com/lcbowling).  
 - 3.mechanical (mechanical design of 'Jupiter', circuit design and control).  
@@ -28,5 +26,8 @@ How to use this repository:
    - step 2: use *ctrl+alt+b* to compiled the code, use *ctrl+alt+v* to preview thd pdf file, use *ctrl+alt+left-click* to reverse positioning to code from pdf file.  
    - step 3: commit to corresponding branch.  
 ---------------------------------------------------
-
+```diff
++ 鸟宿池边树，僧敲月下门
+- 鸟宿池边树，僧推月下门
+```
   
