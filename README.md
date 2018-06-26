@@ -29,7 +29,7 @@ How to use this repository:
 Industrial Robot Manuscript requirements:  
 - Article Length : 2000-4000 words
 - Abstract :  
-Purpose (mandatory)
+  - Purpose (mandatory)
 Design/methodology/approach (mandatory)
 Findings (mandatory)
 Research limitations/implications (if applicable)
