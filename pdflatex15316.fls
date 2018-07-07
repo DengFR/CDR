@@ -1,0 +1,5 @@
+PWD d:/Paper_code/CDR
+INPUT d:/Application/texlive/2018/texmf.cnf
+INPUT d:/Application/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT d:/Application/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT d:/Paper_code/CDR/IR_template.tex
